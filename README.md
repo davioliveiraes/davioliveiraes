@@ -18,12 +18,8 @@
   <img alt="Davi-Django" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/> -
   <img alt="Davi-MYSQL" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> -
   <img alt="Davi-CD" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/128/10817/10817388.png"/> - 
-  <img alt="Davi-Excel" heigth="30" width="40" src="https://img.icons8.com/fluency/256/microsoft-excel-2019.png"/> -
-  <img alt="Davi-JavaScript" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> - 
-  <img alt="Davi-Java" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  
-  
-  
+  <img alt="Davi-Excel" heigth="30" width="40" src="https://img.icons8.com/fluency/256/microsoft-excel-2019.png"/>
+
 </div>
   
 <div align="center">
