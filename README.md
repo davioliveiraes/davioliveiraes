@@ -1,4 +1,4 @@
-### Hello Guys, my name is Davi 🤙🏽
+### Olá pessoal, Bem vindo ao meu Github, meu nome é Davi Oliveira 🤙🏽
 
 <div>
   <lin> Sejam bem vindos ao meu Github, aqui compartilho alguns dos meus trabalhos como programador. Sou estudante, disposto a evoluir, acrescentar e solucionar problemas através da tecnologia.</lin>
