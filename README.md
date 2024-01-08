@@ -16,7 +16,7 @@
   <h2> ⚙ Backend Development - 🖥 Web Development </h2>
   <img alt="Davi-PYTHON" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> -
   <img alt="Davi-Django" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/> -
-  <img alt="Davi-MYSQL" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> -
+  <img alt="Davi-MYSQL" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 
 </div>
   
