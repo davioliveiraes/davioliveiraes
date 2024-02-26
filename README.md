@@ -13,9 +13,13 @@
 </div>
  
 <div align="center">
-  <h2> ⚙ Backend Development - 🖥 Web Development </h2>
+  <h2> Fullstack Programmer in Python </h2>
   <img alt="Davi-PYTHON" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> -
   <img alt="Davi-Django" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/> -
+  <img alt="Davi-Flask" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"/> -
+  <img alt="Davi-FastApi" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/> -
+  <img alt="Davi-CienciaDeDados" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/128/10817/10817388.png"/> -
+  <img alt="Davi-AWS" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/128/14421/14421711.png"/> -
   <img alt="Davi-MYSQL" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> - 
   <img alt="Davi-HTML5" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> -
   <img alt="Davi-CSS3" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> -
