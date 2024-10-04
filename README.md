@@ -21,7 +21,7 @@
   <img alt="Davi-CienciaDeDados" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/128/10817/10817388.png"/> -
   <img alt="Davi-AWS" heigth="30" width="40" src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png"/> -
   <img alt="Davi-AWS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> -
-  <img alt="Davi-MYSQL" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> - 
+  <img alt="Davi-MYSQL" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> - 
   <img alt="Davi-HTML5" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> -
   <img alt="Davi-CSS3" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> -
   <img alt="Davi-JAVASCRIPT" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
