@@ -13,18 +13,15 @@
 </div>
  
 <div align="center">
-  <h2> Fullstack Programmer in Python </h2>
-  <img alt="Davi-PYTHON" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> -
-  <img alt="Davi-Django" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/> -
-  <img alt="Davi-Flask" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"/> -
-  <img alt="Davi-FastApi" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/> -
-  <img alt="Davi-CienciaDeDados" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/128/10817/10817388.png"/> -
+  <h2> Software Engineer | Back-end </h2>
+  <img alt="Davi-Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> - 
+  <img alt="Davi-Go" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/> -
+  <img alt="Davi-Nodejs" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> -
+  <img alt="Davi-Mysql" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> -
+  <img alt="Davi-Postgresql" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Davi-Mongodb" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> -
   <img alt="Davi-AWS" heigth="30" width="40" src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png"/> -
-  <img alt="Davi-AWS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> -
-  <img alt="Davi-MYSQL" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> - 
-  <img alt="Davi-HTML5" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> -
-  <img alt="Davi-CSS3" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> -
-  <img alt="Davi-JAVASCRIPT" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
+  <img alt="Davi-Git" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 
 </div>
   
