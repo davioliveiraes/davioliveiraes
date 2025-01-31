@@ -16,6 +16,7 @@
   <h2> Software Engineer | Back-end </h2>
   <img alt="Davi-Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> - 
   <img alt="Davi-Go" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/> -
+  <img alt="Davi-"C++" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/> -
   <img alt="Davi-Nodejs" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> -
   <img alt="Davi-Mysql" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> -
   <img alt="Davi-Postgresql" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> -
