@@ -19,7 +19,6 @@
   <img alt="Davi-FastAPI" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/> -
   <img alt="Davi-CienciaDadosEngenhariaDeDados" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/128/10817/10817388.png"/> -
   <img alt="Davi-Go" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/> -
-  <img alt="Davi-Nodejs" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> -
   <img alt="Davi-"C++" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/> -
   <img alt="Davi-Mysql" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> -
   <img alt="Davi-Postgresql" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> -
