@@ -17,7 +17,7 @@
   <img alt="Davi-Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> - 
   <img alt="Davi-Django" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/> - 
   <img alt="Davi-FastAPI" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/> -
-  <img alt="Davi-CienciaDadosEngenhariaDeDados" heigth="30" width="40" src="https://www.flaticon.com/br/icone-gratis/ciencia-de-dados_10817388.png"/> -
+  <img alt="Davi-CienciaDadosEngenhariaDeDados" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/128/10817/10817388.png"/> -
   <img alt="Davi-Go" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/> -
   <img alt="Davi-Nodejs" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> -
   <img alt="Davi-"C++" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/> -
