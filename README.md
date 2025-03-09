@@ -31,7 +31,7 @@
 </div>
 <br>
 <div align="center">
-  <img alt="Davi-"C++" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/> -
+  <img alt="Davi-"NodeJs" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> -
    <img alt="Davi-"JavaScript" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> -
    <img alt="Davi-html" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> -
    <img alt="Davi-css" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> -
