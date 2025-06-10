@@ -100,18 +100,6 @@ me.say_hi()
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveiraes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davioliveiraes&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davioliveiraes&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 📫 **Vamos Conectar!**
@@ -124,8 +112,6 @@ me.say_hi()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davioliveiraes7@gmail.com)
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
