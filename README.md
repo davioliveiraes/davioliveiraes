@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Davi Oliveira
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Data+Scientist;Full+Stack+Developer;Python+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Data+Scientist;Back+End+Developer;Python+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@ class DaviOliveira:
         self.role = "Software Engineer"
         self.age = 25
         self.location = "Brazil 🇧🇷"
-        self.languages = ["Python", "Java", "JavaScript"]
+        self.languages = ["Python", "JavaScript"]
         self.interests = ["Backend Development", "Data Science"]
     
     def say_hi(self):
@@ -43,8 +43,7 @@ me.say_hi()
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -53,6 +52,7 @@ me.say_hi()
   
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
