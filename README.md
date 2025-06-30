@@ -80,7 +80,6 @@ me.say_hi()
 ## 📊 **Data Science Stack**
 
 <div align="center">
-  <h3>🧠 Ferramentas de Análise de Dados</h3>
   
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
