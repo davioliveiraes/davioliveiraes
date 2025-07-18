@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Davi Oliveira
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Scientist;Back+End+Developer;Python+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Back+End+Developer;Data+Scientist;Python+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
