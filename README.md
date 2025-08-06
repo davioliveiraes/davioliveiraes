@@ -22,7 +22,7 @@ class DaviOliveira:
         self.role = "Software Engineer"
         self.age = 25
         self.location = "Brazil 🇧🇷"
-        self.languages = ["Python", "JavaScript"]
+        self.languages = ["Python", "Golang", "JavaScript"]
         self.interests = ["Backend Development", "Data Science"]
     
     def say_hi(self):
@@ -43,7 +43,7 @@ me.say_hi()
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
 
