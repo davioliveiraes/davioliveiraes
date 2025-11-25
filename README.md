@@ -10,7 +10,7 @@
 class DaviOliveira:
     def __init__(self):
         self.name = "Davi Oliveira"
-        self.role = "Software Engineer"
+        self.role = "Backend Developer"
         self.location = "Brazil 🇧🇷"
         self.language = ["Python"]
         self.interests = ["Backend Development", "Data"]
