@@ -58,19 +58,6 @@ me = DaviOliveira()
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaviOliveira-es&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviOliveira-es&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviOliveira-es&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## Conecte-se Comigo
 
 <div align="center">
@@ -80,10 +67,4 @@ me = DaviOliveira()
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@canaltechpro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davioliveira_es/?hl=pt-br)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DaviOliveira-es&color=36BCF7&style=flat-square&label=Profile+Views" />
 </div>
