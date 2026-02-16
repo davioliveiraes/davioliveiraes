@@ -14,7 +14,7 @@ class DaviOliveira:
         self.name = "Davi Oliveira"
         self.role = "Backend Developer"
         self.location = "Brazil 🇧🇷"
-        self.education = "Software Engineering — UNOPAR (2025)"
+        self.education = "Software Engineering"
         self.languages = ["Python", "Java"]
         self.focus = ["Backend Development"]
         self.learning = ["FastAPI", "Spring Boot"]
@@ -40,7 +40,6 @@ me = DaviOliveira()
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
