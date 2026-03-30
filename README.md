@@ -1,7 +1,7 @@
 # Olá! Eu sou Davi Oliveira 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+FastAPI+%7C+Django;Building+robust+APIs+%26+smart+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Python;FastAPI+%7C+Django+%7C+Flask;IA+%26+Automa%C3%A7%C3%A3o+de+Processos;Building+robust+APIs+%26+smart+solutions" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,15 +12,21 @@
 class DaviOliveira:
     def __init__(self):
         self.name = "Davi Oliveira"
-        self.role = "Backend Developer"
-        self.location = "Brazil 🇧🇷"
-        self.education = "Software Engineering"
+        self.role = "Backend Developer | IA & Automação"
+        self.location = "Ceará, Brazil 🇧🇷"
+        self.education = "Engenharia de Software (UNOPAR, 2025)"
         self.languages = ["Python"]
-        self.focus = ["Backend Development", "APIs", "Data"]
-        self.learning = ["FastAPI", "Django", "Machine Learning"]
+        self.stack = ["FastAPI", "Django", "Flask"]
+        self.databases = ["PostgreSQL", "MongoDB", "SQLite"]
+        self.focus = [
+            "APIs RESTful",
+            "Clean Architecture & SOLID",
+            "Integração de IA em sistemas backend",
+            "Automação de processos com LLMs",
+        ]
 
     def motto(self):
-        return "Resolver problemas reais com código bem escrito."
+        return "Resolver problemas reais com código limpo e soluções inteligentes."
 
 me = DaviOliveira()
 ```
@@ -29,41 +35,38 @@ me = DaviOliveira()
 
 ## Stack Tecnológico
 
-### Backend
+### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### Databases
+### IA & Automação
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
-### DevOps & Tools
+### DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Data & IA
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-
-### Qualidade & Arquitetura
+### Arquitetura & Qualidade
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-000000?style=flat-square&logo=abstract&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2496ED?style=flat-square&logo=blueprint&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Frontend (Básico)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MVC](https://img.shields.io/badge/MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ---
 
