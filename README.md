@@ -1,7 +1,7 @@
 # Olá! Eu sou Davi Oliveira 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Python;FastAPI+%7C+Django+%7C+Flask;IA+%26+Automa%C3%A7%C3%A3o+de+Processos;Building+robust+APIs+%26+smart+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Python+%26+Go;FastAPI+%7C+Django+%7C+Gin+%7C+Fiber;IA+%26+Automa%C3%A7%C3%A3o+de+Processos;Building+robust+APIs+%26+smart+solutions" alt="Typing SVG" />
 </div>
 
 ---
@@ -15,11 +15,11 @@ class DaviOliveira:
         self.role = "Backend Developer | IA & Automação"
         self.location = "Ceará, Brazil 🇧🇷"
         self.education = "Engenharia de Software (UNOPAR, 2025)"
-        self.languages = ["Python"]
-        self.stack = ["FastAPI", "Django", "Flask"]
+        self.languages = ["Python", "Go"]
+        self.stack = ["FastAPI", "Django", "Gin", "Fiber"]
         self.databases = ["PostgreSQL", "MongoDB", "SQLite"]
         self.focus = [
-            "APIs RESTful",
+            "APIs RESTful de alta performance",
             "Clean Architecture & SOLID",
             "Integração de IA em sistemas backend",
             "Automação de processos com LLMs",
@@ -37,9 +37,10 @@ me = DaviOliveira()
 
 ### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### IA & Automação
